@@ -1175,7 +1175,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff22e5;
+  background: #1ca433;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2571,7 +2571,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 body {
-  background: url("http://www.dmoe.cc/random.php");
+  background: url("https://api.ixiaowai.cn/mcapi/mcapi.php");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
